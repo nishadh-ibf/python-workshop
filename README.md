@@ -9,9 +9,7 @@ applications of Python programming for hydrological and climate forecast modelin
 * Understanding basic Python concepts and libraries (netCDF manipulation files,
 * xarray, pandas, rasters, numpy, and shell scripting,
 * Implement file handling and exception handling techniques
-* Understand operators, sets, methods, and dictionaries in-depth
-* Run commands by implementing conditional statements, loops, and functions
-* Basic understanding of python skills required for the use and applications of CUWALID and in hydrological forecast and climate models.
+* edit by nishadh-ibf
 
 ## JupyterHub link
 
